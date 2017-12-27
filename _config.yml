@@ -2,7 +2,7 @@
 title: 'Josh Keller'
 email: joshmkeller@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Reporter and designer in The New York Times <a target='_blank' href='http://www.twitter.com/nytgraphics'>graphics department</a>, <a target='_blank' href='https://www.instagram.com/p/y4sYM6hiH2/'>Californian</a>, adjunct journalism professor at The New School. Find me on <a target='_blank' href='http://twitter.com/joshkellerjosh'>Twitter</a> or <a target='_blank' href='mailto:joshmkeller@gmail.com'>email</a>.
+  Deputy international editor at the The New York Times focusing on visual journalism. <a target='_blank' href='https://www.instagram.com/p/y4sYM6hiH2/'>Californian</a>. Find me on <a target='_blank' href='http://twitter.com/joshkellerjosh'>Twitter</a> or <a target='_blank' href='mailto:joshmkeller@gmail.com'>email</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://joshkeller.github.io" # the base hostname & protocol for your site
 twitter_username: joshkellerjosh

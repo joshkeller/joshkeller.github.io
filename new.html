@@ -34,8 +34,13 @@
 
       .photo {
          grid-column: 1 / 1;
-        grid-row: 1;
-        width:  100%;
+           grid-row: 1;
+         max-width: 200px;
+      }
+
+      @media only screen and (min-width: 600px) {
+         max-width: none;
+         width: 100%;
       }
 
       .photo img {

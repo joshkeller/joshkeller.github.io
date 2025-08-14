@@ -6,6 +6,11 @@
   <title>Josh Keller</title>
   <meta name="viewport" content="width=device-width">
 
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,600,900&display=swap" rel="stylesheet">
+
+   
    <style type="text/css">
 
       #page {
@@ -15,16 +20,16 @@
       }
 
       #page a {
-       text-decoration: none;
+       text-decoration: underline;
        color: #000;
       }
 
       @media only screen and (min-width: 600px) {
-        .top {
-         display: grid;
-        grid-template-columns: repeat(3,1fr);
-        grid-column-gap: 40px;
-        }
+         .top {
+            display: grid;
+           grid-template-columns: repeat(3,1fr);
+           grid-column-gap: 40px;
+           }
       }
 
       .photo {
@@ -41,6 +46,10 @@
          grid-column: 2 / 4;
          grid-row: 1;
       }
+
+         .bio p {
+            font-family: "Source Code Pro", monospace;
+         }
 
 
 

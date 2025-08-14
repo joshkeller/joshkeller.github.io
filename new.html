@@ -15,9 +15,15 @@
 
       #page {
         max-width: 1050px;
-        margin:  100px auto;
+        margin:  20px auto;
         overflow:  hidden;
       }
+
+         @media only screen and (min-width: 600px) {
+            #page { 
+               margin: 100px auto;
+            }
+         }
 
       #page a {
        text-decoration: underline;
@@ -39,8 +45,10 @@
       }
 
       @media only screen and (min-width: 600px) {
-         max-width: none;
-         width: 100%;
+         .photo {
+            max-width: none;
+            width: 100%;
+         }
       }
 
       .photo img {
